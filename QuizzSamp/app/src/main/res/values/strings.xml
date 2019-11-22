@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quizz Time !!</string>
+    <string name="annuler">Annuler</string>
+    <string name="cr_er">Créer</string>
+    <string name="x">X</string>
+    <string name="nom_du_quizz">Nom du quizz</string>
+    <string name="ajouter">Ajouter</string>
+</resources>
